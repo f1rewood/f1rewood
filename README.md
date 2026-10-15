@@ -7,28 +7,22 @@
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸:
 
 #### Programming languages:
-<div class="flex" style="display: flex; height: 50px; gap: 10px">
-    <img class="logo" src="assets/python.png" alt="">
-    <img class="logo" src="assets/csharp.png" alt="">
-    <img class="logo" src="assets/cplusplus.png" alt="">
-</div>
+<span style="margin-right: 10px;"><img src="assets/python.png" height="50" alt="Python"></span>
+<span style="margin-right: 10px;"><img src="assets/csharp.png" height="50" alt="C#"></span>
+<img src="assets/cplusplus.png" height="50" alt="C++">
 
 #### Python libs:
-<div class="flex" style="display: flex; height: 50px; gap: 10px">
-    <img class="logo" src="assets/numpy.png" alt="">
-    <img class="logo" src="assets/kivy.png" alt="">
-    <img class="logo" src="assets/tensorflow.png" alt="">
-    <img class="logo" src="assets/pyside.png" alt="">
-</div>
+<span style="margin-right: 10px;"><img src="assets/numpy.png" height="50" alt="NumPy"></span>
+<span style="margin-right: 10px;"><img src="assets/kivy.png" height="50" alt="Kivy"></span>
+<span style="margin-right: 10px;"><img src="assets/tensorflow.png" height="50" alt="TensorFlow"></span>
+<img src="assets/pyside.png" height="50" alt="PySide">
 
 ### Other:
-<div class="flex" style="display: flex; height: 50px; gap: 10px">
-    <img class="logo" src="assets/git.png" alt="">
-    <img class="logo" src="assets/html5.png" alt="">
-    <img class="logo" src="assets/css3.png" alt="">
-    <img class="logo" src="assets/unity.png" alt="">
-    <img class="logo" src="assets/blender.png" alt="">
-</div>
+<span style="margin-right: 10px;"><img src="assets/git.png" height="50" alt="Git"></span>
+<span style="margin-right: 10px;"><img src="assets/html5.png" height="50" alt="HTML5"></span>
+<span style="margin-right: 10px;"><img src="assets/css3.png" height="50" alt="CSS3"></span>
+<span style="margin-right: 10px;"><img src="assets/unity.png" height="50" alt="Unity"></span>
+<img src="assets/blender.png" height="50" alt="Blender">
 
 ---
 <p align="center">
