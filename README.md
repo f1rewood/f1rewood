@@ -1,15 +1,3 @@
-<style>
-    .logo {
-        margin: 5px;
-        /*width: 50px;*/
-    }
-    .flex {
-        display: flex;
-        flex-direction: row;
-        height: 50px;
-    }
-</style>
-
 ## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I'm+beginning+developer)](https://git.io/typing-svg)
@@ -19,14 +7,14 @@
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸:
 
 #### Programming languages:
-<div class="flex">
+<div class="flex" style="display: flex; height: 50px; gap: 10px">
     <img class="logo" src="assets/python.png" alt="">
     <img class="logo" src="assets/csharp.png" alt="">
     <img class="logo" src="assets/cplusplus.png" alt="">
 </div>
 
 #### Python libs:
-<div class="flex">
+<div class="flex" style="display: flex; height: 50px; gap: 10px">
     <img class="logo" src="assets/numpy.png" alt="">
     <img class="logo" src="assets/kivy.png" alt="">
     <img class="logo" src="assets/tensorflow.png" alt="">
@@ -34,7 +22,7 @@
 </div>
 
 ### Other:
-<div class="flex">
+<div class="flex" style="display: flex; height: 50px; gap: 10px">
     <img class="logo" src="assets/git.png" alt="">
     <img class="logo" src="assets/html5.png" alt="">
     <img class="logo" src="assets/css3.png" alt="">
