@@ -17,7 +17,7 @@
 <span style="margin-right: 10px;"><img src="assets/tensorflow.png" height="50" alt="TensorFlow"></span>
 <img src="assets/pyside.png" height="50" alt="PySide">
 
-### Other:
+#### Other:
 <span style="margin-right: 10px;"><img src="assets/git.png" height="50" alt="Git"></span>
 <span style="margin-right: 10px;"><img src="assets/html5.png" height="50" alt="HTML5"></span>
 <span style="margin-right: 10px;"><img src="assets/css3.png" height="50" alt="CSS3"></span>
